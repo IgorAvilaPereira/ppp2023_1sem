@@ -1,0 +1,11 @@
+negocio/Duck.class
+negocio/MuteQuack.class
+negocio/Quack.class
+apresentacao/SimDuck.class
+negocio/QuackBehavior.class
+negocio/FlyWithWings.class
+negocio/Squeak.class
+negocio/RedHeadDuck.class
+negocio/FlyNoWay.class
+negocio/FlyBehavior.class
+negocio/RubberDuck.class
